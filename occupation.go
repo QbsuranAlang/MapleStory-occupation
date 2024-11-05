@@ -94,7 +94,7 @@ var (
 		"冒險家":      color.NRGBA{R: 244, G: 169, B: 0, A: 255},
 		"曉之陣":      color.NRGBA{R: 108, G: 70, B: 117, A: 255},
 		"朋友世界":     color.NRGBA{R: 47, G: 53, B: 59, A: 255},
-		"末日反抗軍":    color.NRGBA{R: 76, G: 81, B: 74, A: 255},
+		"末日反抗軍":    color.NRGBA{R: 127, G: 181, B: 181, A: 255},
 		"末日反抗軍支援者": color.NRGBA{R: 127, G: 181, B: 181, A: 255},
 		"江湖":       color.NRGBA{R: 37, G: 109, B: 123, A: 255},
 		"皇家騎士團":    color.NRGBA{R: 199, G: 180, B: 70, A: 255},
