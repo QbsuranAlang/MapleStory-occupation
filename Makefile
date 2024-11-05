@@ -1,5 +1,5 @@
 
-.PHONY: all
+.PHONY: all run
 
 all:
 	mkdir -p bin
@@ -10,3 +10,6 @@ all:
 	cd bin && mv occupation_win_amd64.exe 楓之谷職業隨機選擇器.exe && zip -P "B[hVE8?5K}P_x*k" -r occupation_win_amd64.zip 楓之谷職業隨機選擇器.exe
 	cd bin && mv occupation_win_arm64.exe 楓之谷職業隨機選擇器.exe && zip -P "B[hVE8?5K}P_x*k" -r occupation_win_arm64.zip 楓之谷職業隨機選擇器.exe
 	cd bin && rm -f 楓之谷職業隨機選擇器*
+
+run:
+	go run -ldflags="-s -w" occupation.go
