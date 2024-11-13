@@ -49,11 +49,11 @@
 載點
 ----------
 
-如果你是[intel windows](bin/occupation_win_amd64.zip)；如果你不知道該選哪個，你跑楓之谷的電腦，就是選這個下載來用。
+如果你是[intel windows](https://github.com/QbsuranAlang/MapleStory-occupation/raw/refs/heads/main/bin/occupation_win_amd64.zip)；如果你不知道該選哪個，你跑楓之谷的電腦，就是選這個下載來用。
 
-如果你是[arm64 windows](bin/occupation_win_arm64.zip)。
+如果你是[arm64 windows](https://github.com/QbsuranAlang/MapleStory-occupation/raw/refs/heads/main/bin/occupation_win_arm64.zip)。
 
-如果你是[amd64 mac](bin/occupation_mac_amd64.zip)。
+如果你是[amd64 mac](https://github.com/QbsuranAlang/MapleStory-occupation/raw/refs/heads/main/bin/occupation_mac_amd64.zip)。
 
 （關於到底要不要支援`windows`的`arm64`，好像沒那個必要；但至於`mac`的`arm64`，等我用的套件能支援，我就會馬上釋出載點。）
 
